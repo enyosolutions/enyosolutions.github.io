@@ -24,9 +24,62 @@ Nous n'avons pas retenu non plus la solution d'un Drive ou autre solution de sto
 
 Nous avons shortlisté donc deux solutions.
 
-1. Une solution de KM en SaaS (confluence)
+1. Une solution de KM en SaaS
 2. Une soluton de KM en self hosted (plusieurs choix)
 
 
+### Solution SaaS
 
-https://demo.bookstackapp.com/books/dummy-content-book/page/another-example-of-various-content
+une solution en SaaS est l'option la plus pratique et la plus facile à mettre en oeuvre. Rapide à mettre en oeuvre, elle permet de se lancer sans trop se poser de question.
+Après une rapide recherche, la solution qui revient le plus souvent est **Confluence** de Altassian. C'est une solution mature et performante.
+Les prix sont assez abordables pour les equipes de max 10 personnes.
+
+https://fr.atlassian.com/software/confluence/pricing?tab=cloud
+
+Attention par contre, confluence à un coté piegeux, dans le sens ou le jour ou vous aurez besoin de plus de 10 utilisateurs, vous aurez probablement tellement de contenu dans Confluence qu'il sera quasi impossible de partir...
+
+#### pros
+
+- Rapide à mettre en oeuvre
+- Simple à appréhender
+- Disponible
+- Pas de maintenance (pas de serveur à installer et à maintenir)
+- Support exceptionnel
+
+#### cons
+
+- Cout.
+- Absence de controle sur les données.
+- explosion des couts avec l'augmentation de la taille de l'équipe.
+
+
+### Solution self Hosted (gratuites)
+
+Les solutions en self hosted sont celles vers lesquelles vous allez vous orienter si vous ne souhaitez pas payer, ou si vous voulez garder vos données chez vous.
+Nous avons identifiées plusieurs qui peuvent convenir. La plus utilisée est sans doute **xwiki** qui est un KM avec toutes les fonctionnalités qu'on peut attendre d'un outil de KM (arborescence, recherche, import de documents word...).
+
+En voici quelques autres
+
+["Bookstack"](https://www.bookstackapp.com)
+["Tiddlywiki"](http://tiddlywiki.com/)
+["Xwiki"](http://www.xwiki.com/fr)
+["Documize"](https://github.com/documize/community)
+
+
+
+#### pros
+
+- Gratuit
+- Controle sur les données
+
+#### cons
+
+- Maintenance (Serveur a mettre en place + administration)
+- Risque de perte de données en cas de panne
+- Plus long à mettre en place.
+
+
+## Conclusion
+
+Dans notre cas, nous avons choisi de partir sur confluence, afin de ne pas perdre de temps et d'avoir l'esprit tranquille.
+
