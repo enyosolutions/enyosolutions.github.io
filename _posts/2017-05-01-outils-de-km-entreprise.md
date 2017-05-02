@@ -60,10 +60,10 @@ Nous avons identifiées plusieurs qui peuvent convenir. La plus utilisée est sa
 
 En voici quelques autres
 
-["Bookstack"](https://www.bookstackapp.com)
-["Tiddlywiki"](http://tiddlywiki.com/)
-["Xwiki"](http://www.xwiki.com/fr)
-["Documize"](https://github.com/documize/community)
+- ["Bookstack"](https://www.bookstackapp.com)
+- ["Tiddlywiki"](http://tiddlywiki.com/)
+- ["Xwiki"](http://www.xwiki.com/fr)
+- ["Documize"](https://github.com/documize/community)
 
 
 
