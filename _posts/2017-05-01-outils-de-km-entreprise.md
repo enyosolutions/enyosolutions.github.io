@@ -2,8 +2,6 @@
 title:  "Quels outils pour gérer la connaissance dans son entreprise"
 ---
 
-# Quels outils pour gérer la connaissance dans son entreprise (Knowledge management aka KM)
-
 Gérer la connaissance dans une entreprise est toujours une gageure. Cette tache rébarbatrice de documentation est toujours reléguée aux calendes grecques. Jusqu'au jour ou le départ d'un collaborateur vous rappelle a l'ordre.
 
 Du coup la question se pose. Quel outil pour gérer sa connaissance ? Des fichiers words dans un Filesystem ? Un google drive ? Une solution SaaS ? Un wiki hébergé.

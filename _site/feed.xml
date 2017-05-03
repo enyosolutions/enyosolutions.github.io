@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-05-03T08:31:53+01:00</updated><id>http://localhost:4000/</id><title type="html">Enyosolutions</title><subtitle>We help companies build web applications and hybrid mobile apps</subtitle><author><name>Faouzane BATIGA</name></author><entry><title type="html">Quels outils pour gérer la connaissance dans son entreprise</title><link href="http://localhost:4000/outils-de-km-entreprise/" rel="alternate" type="text/html" title="Quels outils pour gérer la connaissance dans son entreprise" /><published>2017-05-01T00:00:00+01:00</published><updated>2017-05-01T00:00:00+01:00</updated><id>http://localhost:4000/outils-de-km-entreprise</id><content type="html" xml:base="http://localhost:4000/outils-de-km-entreprise/">&lt;p&gt;Gérer la connaissance dans une entreprise est toujours une gageure. Cette tache rébarbatrice de documentation est toujours reléguée aux calendes grecques. Jusqu’au jour ou le départ d’un collaborateur vous rappelle a l’ordre.&lt;/p&gt;
+
+&lt;p&gt;Du coup la question se pose. Quel outil pour gérer sa connaissance ? Des fichiers words dans un Filesystem ? Un google drive ? Une solution SaaS ? Un wiki hébergé.&lt;/p&gt;
+
+&lt;p&gt;Plutôt que de poser les élements de l’analyse à votre place (je ne connais pas les contraintes de votre organisation),
+je vais vous dire ce que nous avons fait.&lt;/p&gt;
+
+&lt;h2 id=&quot;les-solutions-non-retenues&quot;&gt;Les solutions non retenues.&lt;/h2&gt;
+
+&lt;p&gt;Tout d’abord les perdants. Nous avons fait l’impasse sur la solution du filesysteme. Nos clients travaillent en depuis des pays différents et n’ont pas de WAN. De plus, à l’heure de SaaS ca fait un peu viellot…&lt;/p&gt;
+
+&lt;p&gt;Nous n’avons pas retenu non plus la solution d’un Drive ou autre solution de stockage cloud. Pour des raisons de performance de recherche, de versionning et de facilité d’accès à l’information.&lt;/p&gt;
+
+&lt;h2 id=&quot;nos-deux-solutions-pour-un-outil-de-km&quot;&gt;Nos deux solutions pour un outil de KM&lt;/h2&gt;
+
+&lt;p&gt;Nous avons shortlisté donc deux solutions.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Une solution de KM en SaaS&lt;/li&gt;
+  &lt;li&gt;Une soluton de KM en self hosted (plusieurs choix)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;solution-saas&quot;&gt;Solution SaaS&lt;/h3&gt;
+
+&lt;p&gt;une solution en SaaS est l’option la plus pratique et la plus facile à mettre en oeuvre. Rapide à mettre en oeuvre, elle permet de se lancer sans trop se poser de question.
+Après une rapide recherche, la solution qui revient le plus souvent est &lt;strong&gt;Confluence&lt;/strong&gt; de Altassian. C’est une solution mature et performante.
+Les prix sont assez abordables pour les equipes de max 10 personnes.&lt;/p&gt;
+
+&lt;p&gt;https://fr.atlassian.com/software/confluence/pricing?tab=cloud&lt;/p&gt;
+
+&lt;p&gt;Attention par contre, confluence à un coté piegeux, dans le sens ou le jour ou vous aurez besoin de plus de 10 utilisateurs, vous aurez probablement tellement de contenu dans Confluence qu’il sera quasi impossible de partir…&lt;/p&gt;
+
+&lt;h4 id=&quot;pros&quot;&gt;pros&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Rapide à mettre en oeuvre&lt;/li&gt;
+  &lt;li&gt;Simple à appréhender&lt;/li&gt;
+  &lt;li&gt;Disponible&lt;/li&gt;
+  &lt;li&gt;Pas de maintenance (pas de serveur à installer et à maintenir)&lt;/li&gt;
+  &lt;li&gt;Support exceptionnel&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;cons&quot;&gt;cons&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cout.&lt;/li&gt;
+  &lt;li&gt;Absence de controle sur les données.&lt;/li&gt;
+  &lt;li&gt;explosion des couts avec l’augmentation de la taille de l’équipe.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;solution-self-hosted-gratuites&quot;&gt;Solution self Hosted (gratuites)&lt;/h3&gt;
+
+&lt;p&gt;Les solutions en self hosted sont celles vers lesquelles vous allez vous orienter si vous ne souhaitez pas payer, ou si vous voulez garder vos données chez vous.
+Nous avons identifiées plusieurs qui peuvent convenir. La plus utilisée est sans doute &lt;strong&gt;xwiki&lt;/strong&gt; qui est un KM avec toutes les fonctionnalités qu’on peut attendre d’un outil de KM (arborescence, recherche, import de documents word…).&lt;/p&gt;
+
+&lt;p&gt;En voici quelques autres&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bookstackapp.com&quot;&gt;“Bookstack”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://tiddlywiki.com/&quot;&gt;“Tiddlywiki”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.xwiki.com/fr&quot;&gt;“Xwiki”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/documize/community&quot;&gt;“Documize”&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;pros-1&quot;&gt;pros&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Gratuit&lt;/li&gt;
+  &lt;li&gt;Controle sur les données&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;cons-1&quot;&gt;cons&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Maintenance (Serveur a mettre en place + administration)&lt;/li&gt;
+  &lt;li&gt;Risque de perte de données en cas de panne&lt;/li&gt;
+  &lt;li&gt;Plus long à mettre en place.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Dans notre cas, nous avons choisi de partir sur confluence, afin de ne pas perdre de temps et d’avoir l’esprit tranquille.&lt;/p&gt;</content><author><name>Faouzane BATIGA</name></author><summary type="html">Gérer la connaissance dans une entreprise est toujours une gageure. Cette tache rébarbatrice de documentation est toujours reléguée aux calendes grecques. Jusqu’au jour ou le départ d’un collaborateur vous rappelle a l’ordre.</summary></entry></feed>
